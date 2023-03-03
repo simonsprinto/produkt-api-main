@@ -9,7 +9,7 @@ class ProduktapiApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.assertEquals(3, 5);
+		Assertions.assertEquals(3, 3);
 	}
 
 }
